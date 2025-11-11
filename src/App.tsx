@@ -1,7 +1,7 @@
-import './App.css';
+import NavigationRoutes from './routes/NavigationRoutes';
 
 function App() {
-  return <h1>Hi Vova</h1>;
+  return <NavigationRoutes />;
 }
 
 export default App;
